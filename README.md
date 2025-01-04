@@ -1,3 +1,4 @@
+$ pkg update 
 # alkrinsta
 Instgram hacking 
 
